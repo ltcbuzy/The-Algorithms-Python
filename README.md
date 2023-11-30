@@ -2,6 +2,8 @@
 
 ## Mastering Algorithms with "The Algorithms - Python
 
+![1_5__HCmQnUOJ6tms1QiQYKA](https://github.com/ltcbuzy/The-Algorithms-Python/assets/96268218/4d432b22-cddd-4c73-8297-5885a1550344)
+
 The Algorithms - Python" stands as a beacon in the realm of algorithmic understanding and implementation. This repository serves as a comprehensive collection of algorithms, meticulously crafted in Python. Whether you're a seasoned developer looking to deepen your algorithmic expertise or a newcomer eager to embark on the journey of problem-solving, this repository is an invaluable resource.
 ### Getting Started
 **Installation**
